@@ -1,7 +1,7 @@
 ## NGINX 
 ### NGINX Rate Limiting
 * [Limiting Access to Proxied HTTP Resources](https://docs.nginx.com/nginx/admin-guide/security-controls/controlling-access-proxied-http/)
-* [https://www.nginx.com/blog/rate-limiting-nginx/](https://www.nginx.com/blog/rate-limiting-nginx/)
+* [Rate Limiting with NGINX](https://www.nginx.com/blog/rate-limiting-nginx/)
 
 ## Vulnerability Assessment
 * [OpenVAS ](http://openvas.org/)
